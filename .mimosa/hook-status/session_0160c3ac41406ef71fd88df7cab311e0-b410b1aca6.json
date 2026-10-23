@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "mimosa-hook-status/v1",
+  "recordedAt": "2026-10-23T10:18:16.382Z",
+  "sessionId": "session_0160c3ac41406ef71fd88df7cab311e0",
+  "event": "PostToolUse",
+  "toolName": "Edit",
+  "file": "src/main/java/com/ibupro/cloudbox/util/CommonUtil.java",
+  "outcome": "clear",
+  "coverage": "complete",
+  "findingCount": 0,
+  "durationMs": 4,
+  "hostState": "hook_complete",
+  "reportHint": ".mimosa/reports/"
+}
